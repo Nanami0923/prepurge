@@ -562,3 +562,7 @@ flowchart LR
 ---
 
 感谢 [LINUX DO](https://linux.do) 社区
+## 本 Fork 的 DSH NEXT 兼容修复
+
+详见 [修复方案与验证记录](docs/DSH-NEXT-REPAIRS.zh-CN.md)。
+
